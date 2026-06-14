@@ -1,0 +1,9 @@
+{
+  "watchlist": [
+    "BTCUSDT",
+    "ETHUSDT"
+  ],
+  "risk": {
+    "maxRiskPerTrade": 1
+  }
+}
